@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.665,C:\Users\Ertan\Documents\Embarcadero\Studio\Projects\Unit1.pas=Z:\Freelancer\GelisimYazilim\EFatura\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.162,=C:\Users\Ertan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.893,=C:\Users\Ertan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.599,=Z:\Freelancer\GelisimYazilim\EFatura\EFaturaOIB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,=C:\Users\Ertan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.899,=C:\Users\Ertan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.886,=Z:\Freelancer\GelisimYazilim\EFatura\AuthenticationWS.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,C:\Users\Ertan\Documents\Embarcadero\Studio\Projects\Unit1.dfm=Z:\Freelancer\GelisimYazilim\EFatura\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,Z:\Freelancer\GelisimYazilim\EFatura\AuthenticationWS.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.168,=C:\Users\Ertan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,C:\Users\Ertan\Documents\Embarcadero\Studio\Projects\Project1.dproj=Z:\Freelancer\GelisimYazilim\EFatura\eFatura.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
